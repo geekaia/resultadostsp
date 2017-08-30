@@ -1,0 +1,3 @@
+m-desk slots=2
+m-note slots=3
+suzi slots=2

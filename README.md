@@ -1,2 +1,6 @@
-# resultadostsp
-Resultados da resolução do problema do cacheiro viajante 
+#Dados brutos da resolução do problema do caxeiro viajante
+
+
+Resultados da resolução do problema do caxeiro viajante 
+
+
